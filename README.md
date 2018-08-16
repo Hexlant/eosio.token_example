@@ -3,6 +3,7 @@
 Compile
 
  $ eosiocpp -o eosio.token_example.wast eosio.token.cpp
+ 
  $ eosiocpp -g eosio.token_example.abi eosio.token.hpp
 
 Deploy
